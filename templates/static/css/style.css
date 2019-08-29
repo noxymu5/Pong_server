@@ -1,0 +1,22 @@
+body{
+	background-color: purple;
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	align-items: center;
+}
+
+.pic{
+	background-image: url(../../assets/sprites/field.png);
+	width: 800px; 
+	height: 735px;
+}
+
+
+#game_container{
+	width: 800px;
+	height: 735px;
+	background-color: white;
+	position: relative;
+	margin: 0 auto;
+}
